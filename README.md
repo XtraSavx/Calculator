@@ -1,2 +1,2 @@
 # Cli-Calculator
-A simple Cli Calculator made in C
+A simple Calculator made in C
